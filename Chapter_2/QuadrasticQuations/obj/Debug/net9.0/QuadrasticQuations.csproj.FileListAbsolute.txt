@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\bin\Debug\net9.0\QuadrasticQuations.exe
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\bin\Debug\net9.0\QuadrasticQuations.deps.json
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\bin\Debug\net9.0\QuadrasticQuations.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\bin\Debug\net9.0\QuadrasticQuations.dll
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\bin\Debug\net9.0\QuadrasticQuations.pdb
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.dll
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\refint\QuadrasticQuations.dll
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.pdb
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\QuadrasticQuations.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\QuadrasticQuations\obj\Debug\net9.0\ref\QuadrasticQuations.dll

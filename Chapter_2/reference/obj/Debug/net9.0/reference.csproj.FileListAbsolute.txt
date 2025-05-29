@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\reference\bin\Debug\net9.0\reference.exe
+D:\Ki_5\PRN212_SE1852\reference\bin\Debug\net9.0\reference.deps.json
+D:\Ki_5\PRN212_SE1852\reference\bin\Debug\net9.0\reference.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\reference\bin\Debug\net9.0\reference.dll
+D:\Ki_5\PRN212_SE1852\reference\bin\Debug\net9.0\reference.pdb
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.dll
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\refint\reference.dll
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.pdb
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\reference.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\reference\obj\Debug\net9.0\ref\reference.dll

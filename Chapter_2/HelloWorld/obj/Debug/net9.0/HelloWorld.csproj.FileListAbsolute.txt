@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+D:\Ki_5\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+D:\Ki_5\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+D:\Ki_5\PRN212_SE1852\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

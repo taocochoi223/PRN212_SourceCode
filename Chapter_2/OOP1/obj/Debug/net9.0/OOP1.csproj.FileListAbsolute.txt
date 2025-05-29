@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\OOP1\bin\Debug\net9.0\OOP1.exe
+D:\Ki_5\PRN212_SE1852\OOP1\bin\Debug\net9.0\OOP1.deps.json
+D:\Ki_5\PRN212_SE1852\OOP1\bin\Debug\net9.0\OOP1.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\OOP1\bin\Debug\net9.0\OOP1.dll
+D:\Ki_5\PRN212_SE1852\OOP1\bin\Debug\net9.0\OOP1.pdb
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.dll
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\refint\OOP1.dll
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.pdb
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\OOP1.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\OOP1\obj\Debug\net9.0\ref\OOP1.dll

@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.exe
+D:\Ki_5\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.deps.json
+D:\Ki_5\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.dll
+D:\Ki_5\PRN212_SE1852\LearnForeach\bin\Debug\net9.0\LearnForeach.pdb
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.dll
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\refint\LearnForeach.dll
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.pdb
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\LearnForeach.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\LearnForeach\obj\Debug\net9.0\ref\LearnForeach.dll

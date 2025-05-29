@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\reviewfor\bin\Debug\net9.0\reviewfor.exe
+D:\Ki_5\PRN212_SE1852\reviewfor\bin\Debug\net9.0\reviewfor.deps.json
+D:\Ki_5\PRN212_SE1852\reviewfor\bin\Debug\net9.0\reviewfor.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\reviewfor\bin\Debug\net9.0\reviewfor.dll
+D:\Ki_5\PRN212_SE1852\reviewfor\bin\Debug\net9.0\reviewfor.pdb
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.dll
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\refint\reviewfor.dll
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.pdb
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\reviewfor.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\reviewfor\obj\Debug\net9.0\ref\reviewfor.dll

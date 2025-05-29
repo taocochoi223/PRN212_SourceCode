@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\bin\Debug\net9.0\ReviewNextedLoop.exe
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\bin\Debug\net9.0\ReviewNextedLoop.deps.json
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\bin\Debug\net9.0\ReviewNextedLoop.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\bin\Debug\net9.0\ReviewNextedLoop.dll
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\bin\Debug\net9.0\ReviewNextedLoop.pdb
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.dll
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\refint\ReviewNextedLoop.dll
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.pdb
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ReviewNextedLoop.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\ReviewNextedLoop\obj\Debug\net9.0\ref\ReviewNextedLoop.dll

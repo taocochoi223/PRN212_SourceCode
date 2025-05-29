@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\FisrtDegree\bin\Release\net9.0\FisrtDegree.exe
+D:\Ki_5\PRN212_SE1852\FisrtDegree\bin\Release\net9.0\FisrtDegree.deps.json
+D:\Ki_5\PRN212_SE1852\FisrtDegree\bin\Release\net9.0\FisrtDegree.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\FisrtDegree\bin\Release\net9.0\FisrtDegree.dll
+D:\Ki_5\PRN212_SE1852\FisrtDegree\bin\Release\net9.0\FisrtDegree.pdb
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.dll
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\refint\FisrtDegree.dll
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.pdb
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\FisrtDegree.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\FisrtDegree\obj\Release\net9.0\ref\FisrtDegree.dll

@@ -1,0 +1,14 @@
+D:\Ki_5\PRN212_SE1852\StringIntegraction\bin\Debug\net9.0\StringIntegraction.exe
+D:\Ki_5\PRN212_SE1852\StringIntegraction\bin\Debug\net9.0\StringIntegraction.deps.json
+D:\Ki_5\PRN212_SE1852\StringIntegraction\bin\Debug\net9.0\StringIntegraction.runtimeconfig.json
+D:\Ki_5\PRN212_SE1852\StringIntegraction\bin\Debug\net9.0\StringIntegraction.dll
+D:\Ki_5\PRN212_SE1852\StringIntegraction\bin\Debug\net9.0\StringIntegraction.pdb
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.AssemblyInfoInputs.cache
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.AssemblyInfo.cs
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.csproj.CoreCompileInputs.cache
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.dll
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\refint\StringIntegraction.dll
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.pdb
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\StringIntegraction.genruntimeconfig.cache
+D:\Ki_5\PRN212_SE1852\StringIntegraction\obj\Debug\net9.0\ref\StringIntegraction.dll
